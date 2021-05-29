@@ -1,4 +1,3 @@
-# cmstemplate
-Github pages template for cmsimde submodule
+# wcm2021-ag6
 
-http://mde.tw/cmstemplate
+https://s40723240.github.io/wcm2021-ag6/content/index.html
